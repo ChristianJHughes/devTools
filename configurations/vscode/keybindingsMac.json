@@ -1,0 +1,6 @@
+[
+    {
+        "key": "cmd+4",
+        "command": "workbench.action.terminal.focus"
+    }
+]
