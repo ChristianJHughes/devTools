@@ -31,16 +31,6 @@
   },
   {
     "metadata": {
-      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
-      "publisherId": "streetsidesoftware.code-spell-checker",
-      "publisherDisplayName": "streetsidesoftware"
-    },
-    "name": "code-spell-checker",
-    "publisher": "streetsidesoftware",
-    "version": "1.6.10"
-  },
-  {
-    "metadata": {
       "id": "121396ad-85a1-45ec-9fd1-d95028a847f5",
       "publisherId": "naumovs.color-highlight",
       "publisherDisplayName": "naumovs"
@@ -147,7 +137,37 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.26.0"
+    "version": "0.27.0"
+  },
+  {
+    "metadata": {
+      "id": "98790d67-10fa-497c-9113-f6c7489207b2",
+      "publisherId": "yzhang.markdown-all-in-one",
+      "publisherDisplayName": "yzhang"
+    },
+    "name": "markdown-all-in-one",
+    "publisher": "yzhang",
+    "version": "1.5.0"
+  },
+  {
+    "metadata": {
+      "id": "5cbdf58a-694a-4aba-af08-61d00842eb03",
+      "publisherId": "bierner.markdown-preview-github-styles",
+      "publisherDisplayName": "bierner"
+    },
+    "name": "markdown-preview-github-styles",
+    "publisher": "bierner",
+    "version": "0.1.2"
+  },
+  {
+    "metadata": {
+      "id": "a4f91432-1b7d-4acd-b906-76d8ac8ad7e7",
+      "publisherId": "mdickin.markdown-shortcuts",
+      "publisherDisplayName": "mdickin"
+    },
+    "name": "markdown-shortcuts",
+    "publisher": "mdickin",
+    "version": "0.8.1"
   },
   {
     "metadata": {
@@ -227,7 +247,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2018.5.0"
+    "version": "2018.6.0"
   },
   {
     "metadata": {
@@ -241,26 +261,6 @@
   },
   {
     "metadata": {
-      "id": "85e57fc6-8e21-4402-8e66-af4155fbb5d2",
-      "publisherId": "qinjia.seti-icons",
-      "publisherDisplayName": "qinjia"
-    },
-    "name": "seti-icons",
-    "publisher": "qinjia",
-    "version": "0.1.3"
-  },
-  {
-    "metadata": {
-      "id": "fb374ce1-5343-46c8-a425-900fdad15523",
-      "publisherId": "wesbos.theme-cobalt2",
-      "publisherDisplayName": "wesbos"
-    },
-    "name": "theme-cobalt2",
-    "publisher": "wesbos",
-    "version": "2.1.6"
-  },
-  {
-    "metadata": {
       "id": "0b8f8d63-11a2-4194-969c-ca7488b3413a",
       "publisherId": "pranaygp.vscode-css-peek",
       "publisherDisplayName": "pranaygp"
@@ -268,16 +268,6 @@
     "name": "vscode-css-peek",
     "publisher": "pranaygp",
     "version": "2.1.0"
-  },
-  {
-    "metadata": {
-      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-      "publisherId": "PeterJausovec.vscode-docker",
-      "publisherDisplayName": "PeterJausovec"
-    },
-    "name": "vscode-docker",
-    "publisher": "PeterJausovec",
-    "version": "0.0.27"
   },
   {
     "metadata": {
@@ -361,6 +351,16 @@
   },
   {
     "metadata": {
+      "id": "1d4d80c9-0d33-48a1-88a8-19ff80bc8e2a",
+      "publisherId": "ziyasal.vscode-open-in-github",
+      "publisherDisplayName": "ziyasal"
+    },
+    "name": "vscode-open-in-github",
+    "publisher": "ziyasal",
+    "version": "1.3.3"
+  },
+  {
+    "metadata": {
       "id": "28ab2178-c402-481e-a433-c2d6d8a50275",
       "publisherId": "fabiospampinato.vscode-optimize-images",
       "publisherDisplayName": "fabiospampinato"
@@ -368,16 +368,6 @@
     "name": "vscode-optimize-images",
     "publisher": "fabiospampinato",
     "version": "1.0.4"
-  },
-  {
-    "metadata": {
-      "id": "6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db",
-      "publisherId": "cssho.vscode-svgviewer",
-      "publisherDisplayName": "cssho"
-    },
-    "name": "vscode-svgviewer",
-    "publisher": "cssho",
-    "version": "1.4.4"
   },
   {
     "metadata": {
@@ -407,7 +397,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "0.0.12"
+    "version": "0.0.13"
   },
   {
     "metadata": {
@@ -418,15 +408,5 @@
     "name": "vscode-yarn",
     "publisher": "gamunu",
     "version": "1.6.0"
-  },
-  {
-    "metadata": {
-      "id": "0cb81da2-1880-4755-9995-0ae9cc728e20",
-      "publisherId": "DotJoshJohnson.xml",
-      "publisherDisplayName": "DotJoshJohnson"
-    },
-    "name": "xml",
-    "publisher": "DotJoshJohnson",
-    "version": "2.2.0"
   }
 ]
