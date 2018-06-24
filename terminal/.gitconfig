@@ -1,0 +1,10 @@
+[user]
+	name = Christian Hughes
+	email = chughes.mail@icloud.com
+	username = ChristianJHughes
+[diff]
+	tool = vscode
+[difftool "vscode"]
+	cmd = code --wait --diff $LOCAL $REMOTE
+[core]
+	editor = code
