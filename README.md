@@ -1,6 +1,6 @@
 # Christian's Dev Tools
 
-**My toolkit for getting work done 🎒.**
+**🎒 My toolkit for getting work done.**
 
 This repo contains the **configuration** and **reference** for my dev tools.
 
