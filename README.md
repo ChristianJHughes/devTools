@@ -40,9 +40,9 @@ I use the [XCode Command Line Tools](https://developer.apple.com/xcode/features/
 
 `brew list && brew cask list`
 
-- node
-- yarn
-- screenfetch
+- [node](https://nodejs.org/en/)
+- [yarn](https://yarnpkg.com/en/)
+- [screenfetch](https://github.com/KittyKatt/screenFetch)
 
 #### Via `yarn` & `npm`
 
@@ -54,10 +54,10 @@ I use the [XCode Command Line Tools](https://developer.apple.com/xcode/features/
 
 ## Editor
 
-### [Visual Studio Code](https://code.visualstudio.com)
+### > [Visual Studio Code](https://code.visualstudio.com)
+
+![VSCode Theme](https://i.imgur.com/KaZRIMR.png)
 
 #### Theme
 
 I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme/blob/master/OS%20X%20Terminal/Tomorrow%20Night%20Blue.terminal)** theme which is included as an extension in the base install of VSCode.
-
-#### Extensions
