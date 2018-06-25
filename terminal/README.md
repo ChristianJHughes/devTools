@@ -22,3 +22,5 @@ The `ramsey-art.sh` script generates **[Ramsey Solutions](https://www.daveramsey
 ```bash
 ./{my-scripts-directory}/ramsey-art.sh
 ```
+
+**Note:** If you are running in vanilla `bash` or `zsh` you may have to call `export COLUMNS` before executing the script.
