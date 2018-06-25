@@ -34,7 +34,7 @@ The mighty **[terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS))** is
 
 ### Command Line Tools
 
-I use the [XCode Command Line Tools](https://developer.apple.com/xcode/features/) include many common utilties such as `git` and `gcc`.
+The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) include many common utilties such as `git` and `gcc`.
 
 #### Via `homebrew`
 
