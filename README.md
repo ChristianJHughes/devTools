@@ -4,6 +4,11 @@
 
 This repo contains the **configuration** and **reference** for my dev tools.
 
+- [Terminal](#terminal)
+- [Editor](#editor)
+- [Desktop Tools](#desktop-tools)
+
+
 ## Terminal
 
 ### ➜ ~ [oh-my-zsh](https://ohmyz.sh)
@@ -114,3 +119,5 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
+
+## Desktop Tools
