@@ -59,6 +59,7 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 
 #### Via `curl`
 
+- [**homebrew**](https://brew.sh)
 - [**nvm**](https://github.com/creationix/nvm)
 
 ## Editor
@@ -204,3 +205,36 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Better Jira**](https://chrome.google.com/webstore/detail/better-jira/adjlkmhgnjccbagimdppnminndehkmgl) - Makes Jira much more presentable for stand-ups.
 
 ## Web Resources
+
+### Great Teachers
+
+**Blogs**
+
+- [**Aaron Krauss's Blog**](https://thesocietea.org)
+- [**Bob Nystrom's Blog**](http://journal.stuffwithstuff.com)
+- [**Hackernoon**](https://hackernoon.com)
+
+**YouTube**
+
+- [**DevTips**](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [**Programming with Mosh**](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- [**Jonathan Blow**](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ)
+- [**Computerphile**](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+- [**Manorisms**](https://www.youtube.com/channel/UCSUkyvHHdLuFKkHyYxCmmcw)
+- [**Chris Courses**](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA)
+- [**Wes Bos**](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+- [**The 8-Bit Guy**](https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww)
+- [**Retro Game Mechanics Explained**](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
+
+**Reddit**
+- [**/r/programming**](https://www.reddit.com/r/programming/)
+- [**/r/webdev**](https://www.reddit.com/r/webdev/)
+- [**/r/web_design**](https://www.reddit.com/r/web_design/)
+- [**/r/cscareerquestions**](https://www.reddit.com/r/cscareerquestions/)
+- [**/r/ProgrammerTIL**](https://www.reddit.com/r/ProgrammerTIL/)
+
+### Reference
+- [**Big-O Cheat Sheet**](http://bigocheatsheet.com)
+- [**Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+- [**Front End Interview Handbook**](https://github.com/yangshun/front-end-interview-handbook)
+- [**Terminal Mac Cheatsheet**](https://github.com/0nn0/terminal-mac-cheatsheet)
