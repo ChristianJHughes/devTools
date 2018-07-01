@@ -47,6 +47,7 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 
 - [**node**](https://nodejs.org/en/)
 - [**yarn**](https://yarnpkg.com/en/)
+- [**java**](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [**screenfetch**](https://github.com/KittyKatt/screenFetch)
 
 #### Via `yarn` & `npm`
@@ -169,6 +170,7 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 - [**Atom**](https://atom.io) - A text-editor by GitHub. This was my daily driver for almost two-years before switching to VSCode. I think VSCode is more mature for daily development, but I keep Atom around to keep up with its new releases.
 - [**XCode**](https://developer.apple.com/xcode/) - Apple's IDE for Apple's OS's. I use it rarely right now.
 - [**CodeRunner**](https://coderunnerapp.com) - A lightweight IDE that can run a ton of different lanugages. I use it for writing quick Java and Python scripts.
+- [**Sequel Pro**](https://www.sequelpro.com) - Great visual utility for MySQL databases.
 
 ### Productivity
 
@@ -204,6 +206,13 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Takes seamless full-page screenshots.
 - [**Better Jira**](https://chrome.google.com/webstore/detail/better-jira/adjlkmhgnjccbagimdppnminndehkmgl) - Makes Jira much more presentable for stand-ups.
 
+### For Fun
+
+- [**Steam**](https://store.steampowered.com) - It's steam.
+- [**OpenEMU**](http://openemu.org) - An amazing Mac application that can emualate a great many retro game systems.
+- [**Spotify**](https://www.spotify.com) - [Apple Music](https://www.apple.com/music/) is my daily driver, but I keep Spotify installed for it's social features.
+- [**Hearthstone**](https://playhearthstone.com/en-us/) - The only PC game I play reliably.
+
 ## Web Resources
 
 ### Great Teachers
@@ -238,3 +247,5 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 - [**Front End Interview Handbook**](https://github.com/yangshun/front-end-interview-handbook)
 - [**Terminal Mac Cheatsheet**](https://github.com/0nn0/terminal-mac-cheatsheet)
+- [**Cracking the Coding Interview**](http://www.crackingthecodinginterview.com)
+- [**Game Programming Patterns**](http://gameprogrammingpatterns.com)
