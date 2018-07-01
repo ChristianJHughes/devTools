@@ -8,7 +8,6 @@ This repo contains the **configuration** and **reference** for my dev tools.
 - [Editor](#editor)
 - [Desktop Tools](#desktop-tools)
 
-
 ## Terminal
 
 ### ➜ ~ [oh-my-zsh](https://ohmyz.sh)
@@ -121,3 +120,73 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 - [yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
 
 ## Desktop Tools
+
+I do all of my personal and profesional work on a [15" Macbook Pro](https://www.apple.com/macbook-pro/) (2016 or 2017) running [macOS High Sierra](https://www.apple.com/macos/high-sierra/).
+
+### System Enhancements
+
+- [**Alfred 3**](https://www.alfredapp.com) - It's like Spotlight on steroids. It's a ⚡️ fast app launcher, 📁 file searcher, and 💻 system shorcut tool. Plus, it seamlessly integrates with 1Password and your browser bookmarks.
+
+![Alfred](https://i.imgur.com/fdvy7dM.png)
+
+- [**ToothFairy**](https://itunes.apple.com/us/app/toothfairy/id1191449274?mt=12) - I love my airpods, but digging through the Bluetooth menu to connect them is a first-world hastle. ToothFairy gives you a one click shortcut!
+
+![ToothFairy](https://i.imgur.com/L5hqIGh.png)
+
+- [**Vanilla**](https://matthewpalmer.net/vanilla/) - Is your menu bar getting cluttered? Vanilla will hide the icons that you rarely use.
+
+![Vanilla](https://i.imgur.com/wa0OBzl.png)
+
+- [**Amphetamine**](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) - Keep your Mac from sleeping with a button in the menu bar. Don't do drugs, kids!
+
+![Amphetamine](https://i.imgur.com/ScOIxYX.png)
+
+- [**Magnet**](http://magnet.crowdcafe.com) - Adds window snapping and resizing with simple keyboard shortcuts ([Specatcle](https://www.spectacleapp.com) is a good free open-source alternative).
+
+![Magnet](https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/98/c6/ff/98c6ff8e-1d13-1a2b-5946-6bcd1aff8451/pr_source.png/643x0w.png)
+
+- [**Rocket**](https://matthewpalmer.net/rocket/) - Add emotions anywhere by using the `:` shortcut, just like in [Slack](https://slack.com) 🎉!
+
+![Rocket](https://matthewpalmer.net/rocket/bigdemo.gif)
+
+### Programming
+
+- [**GitHub Desktop**](https://desktop.github.com)
+- [**Lepton**](https://github.com/hackjutsu/Lepton)
+- [**Atom**](https://atom.io)
+- [**XCode**](https://developer.apple.com/xcode/)
+- [**CodeRunner**](https://coderunnerapp.com)
+
+### Productivity
+
+- [**Things 3**](https://culturedcode.com/things/)
+- [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/)
+- [**Slack**](https://slack.com)
+- [**Discord**](https://discordapp.com)
+
+### Utilities
+
+- [**1Password**](https://1password.com)
+- [**AppCleaner**](https://freemacsoft.net/appcleaner/)
+- [**ImageOptim**](https://imageoptim.com/mac)
+- [**CleanMyMac 3**](https://macpaw.com/cleanmymac)
+- [**PDF Toolkit+**](https://itunes.apple.com/us/app/pdf-toolkit/id545164971?mt=12)
+
+### Browsers
+
+I use [Google Chrome](https://www.google.com/chrome/) for work, and Safari for play. The Chrome Dev Tools are next level, but [Safari](https://www.apple.com/safari/) is cleaner and has better OS itegration,.
+
+#### Safari Extensions
+
+- [1Password](https://safari-extensions.apple.com/details/?id=com.agilebits.onepassword4-safari-2BUA8C4S2C)
+- [Wipr](https://safari-extensions.apple.com/details/?id=com.giorgiocalderolla.wipr-desktop-4449XA862Y)
+- [Instapaper](https://safari-extensions.apple.com/details/?id=com.instapaper.extension-CAM49M58WK)
+
+#### Chrome Extensions
+
+- [1Password X](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
+- [Bookmarks Bar Switcher](https://chrome.google.com/webstore/detail/bookmarks-bar-switcher/lcaelgondnfehcambmdhhfokjknhfahc)
+- [Instapaper](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh)
+- [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
+- [Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+- [Better Jira](https://chrome.google.com/webstore/detail/better-jira/adjlkmhgnjccbagimdppnminndehkmgl)
