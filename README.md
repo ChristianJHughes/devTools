@@ -151,10 +151,11 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 
 ### Programming
 
+- [**IntelliJ IDEA**](https://www.jetbrains.com/idea/) - Though I'm not doing much Java development right now, IntelliJ consistantly provides the best experience. It's far more powerful that VSCode for Java, and has far better UX than [Eclipse](https://www.eclipse.org/ide/).
 - [**GitHub Desktop**](https://desktop.github.com) - GitHub's desktop client. It's good for viewing visual diffs, but I use the command line (or VSCode) 90% of the time.
 - [**Lepton**](https://github.com/hackjutsu/Lepton) - An open-source [gist](https://gist.github.com) manager. It's not much of a looker, but it gets the job done.
 - [**Atom**](https://atom.io) - A text-editor by GitHub. This was my daily driver for almost two-years before switching to VSCode. I think VSCode is more mature for daily development, but I keep Atom around to keep up with its new releases.
-- [**XCode**](https://developer.apple.com/xcode/) - Apple's IDE for Apple's OS's. I use it rarely use it right now.
+- [**XCode**](https://developer.apple.com/xcode/) - Apple's IDE for Apple's OS's. I use it rarely right now.
 - [**CodeRunner**](https://coderunnerapp.com) - A lightweight IDE that can run a ton of different lanugages. I use it for writing quick Java and Python scripts.
 
 ### Productivity
