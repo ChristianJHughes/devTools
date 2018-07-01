@@ -44,21 +44,21 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 
 `brew list && brew cask list`
 
-- [node](https://nodejs.org/en/)
-- [yarn](https://yarnpkg.com/en/)
-- [screenfetch](https://github.com/KittyKatt/screenFetch)
+- [**node**](https://nodejs.org/en/)
+- [**yarn**](https://yarnpkg.com/en/)
+- [**screenfetch**](https://github.com/KittyKatt/screenFetch)
 
 #### Via `yarn` & `npm`
 
 `npm list -g --depth 0 && yarn global list`
 
-- [webpack](https://www.npmjs.com/package/webpack)
-- [prettier](https://www.npmjs.com/package/prettier)
-- [eslint](https://www.npmjs.com/package/eslint)
+- [**webpack**](https://www.npmjs.com/package/webpack)
+- [**prettier**](https://www.npmjs.com/package/prettier)
+- [**eslint**](https://www.npmjs.com/package/eslint)
 
 #### Via `curl`
 
-- [nvm](https://github.com/creationix/nvm)
+- [**nvm**](https://github.com/creationix/nvm)
 
 ## Editor
 
@@ -74,50 +74,50 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 
 ##### Language Services
 
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
-- [YAML Support by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-- [Freemarker](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker)
-- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
-- [Mustache](https://marketplace.visualstudio.com/items?itemName=dawhite.mustache)
+- [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [**Sass**](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
+- [**YAML Support by Red Hat**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- [**DotENV**](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [**Freemarker**](https://marketplace.visualstudio.com/items?itemName=dcortes92.FreeMarker)
+- [**Java Extension Pack**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+- [**gitignore**](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+- [**Mustache**](https://marketplace.visualstudio.com/items?itemName=dawhite.mustache)
 
 ##### Appearance
 
-- [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-- [highlight-matching-tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
-- [Indent-raindow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
-- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [**Atom One Dark Theme**](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+- [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [**Bracket Pair Colorizer**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [**highlight-matching-tag**](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+- [**Indent-raindow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+- [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [**Color Highlight**](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 ##### Other
 
-- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
-- [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
-- [Intellisense for CSS class names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
-- [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-- [Maven for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
-- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-- [Open in Github, Bitbucket, Gitlab, VisualStudio.com!](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
-- [Optimize Images](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-optimize-images)
-- [Path Inellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-- [yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
+- [**CSS Peek**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [**Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+- [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [**HTML Snippets**](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)
+- [**Image preview**](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- [**Intellisense for CSS class names**](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+- [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [**Markdown Preview Github Styling**](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+- [**Markdown Shortcuts**](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
+- [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [**Maven for Java**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
+- [**npm**](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+- [**npm Intellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [**Open in Github, Bitbucket, Gitlab, VisualStudio.com!**](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
+- [**Optimize Images**](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-optimize-images)
+- [**Path Inellisense**](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [**Polacode**](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+- [**Prettier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [**Settings Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [**yarn**](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
 
 ## Desktop Tools
 
@@ -151,42 +151,42 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 
 ### Programming
 
-- [**GitHub Desktop**](https://desktop.github.com)
-- [**Lepton**](https://github.com/hackjutsu/Lepton)
-- [**Atom**](https://atom.io)
-- [**XCode**](https://developer.apple.com/xcode/)
-- [**CodeRunner**](https://coderunnerapp.com)
+- [**GitHub Desktop**](https://desktop.github.com) - GitHub's desktop client. It's good for viewing visual diffs, but I use the command line (or VSCode) 90% of the time.
+- [**Lepton**](https://github.com/hackjutsu/Lepton) - An open-source [gist](https://gist.github.com) manager. It's not much of a looker, but it gets the job done.
+- [**Atom**](https://atom.io) - A text-editor by GitHub. This was my daily driver for almost two-years before switching to VSCode. I think VSCode is more mature for daily development, but I keep Atom around to keep up with its new releases.
+- [**XCode**](https://developer.apple.com/xcode/) - Apple's IDE for Apple's OS's. I use it rarely use it right now.
+- [**CodeRunner**](https://coderunnerapp.com) - A lightweight IDE that can run a ton of different lanugages. I use it for writing quick Java and Python scripts.
 
 ### Productivity
 
-- [**Things 3**](https://culturedcode.com/things/)
-- [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/)
-- [**Slack**](https://slack.com)
-- [**Discord**](https://discordapp.com)
+- [**Things 3**](https://culturedcode.com/things/) - The best To-Do list app in existence. I have obsessively tried tons of to-do list style apps, and this one is my favorite by a large margin. It's clean, powerful, and reliable. Pricey but worth it.
+- [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/) - Don't make me use Office.
+- [**Slack**](https://slack.com) - I started using Slack in March 2018, and it's quickly become my favorite chat client.
+- [**Discord**](https://discordapp.com) - Discord is the best cross-platform *voice* chat that I've ever used.
 
 ### Utilities
 
-- [**1Password**](https://1password.com)
-- [**AppCleaner**](https://freemacsoft.net/appcleaner/)
-- [**ImageOptim**](https://imageoptim.com/mac)
-- [**CleanMyMac 3**](https://macpaw.com/cleanmymac)
-- [**PDF Toolkit+**](https://itunes.apple.com/us/app/pdf-toolkit/id545164971?mt=12)
+- [**1Password**](https://1password.com) - The best password manager for mac. The UX is consistantly great, and the development team is constantly releasing improvements.
+- [**AppCleaner**](https://freemacsoft.net/appcleaner/) - Dragging an app to the trash doesn't *really* delete an app in macOS. This handy app will fully remove apps that you're not using anymore.
+- [**ImageOptim**](https://imageoptim.com/mac) - Open-source painless image optimization. A must-have when working with images being published to the web.
+- [**CleanMyMac 3**](https://macpaw.com/cleanmymac) - The best app for removing junk files, cleaning out caches, and fixing permission issues. Just turn off the garbage helper tool.
+- [**PDF Toolkit+**](https://itunes.apple.com/us/app/pdf-toolkit/id545164971?mt=12) - Performs all sorts of useful actions on PDF documents. I frequently use it to stich multiple PDFs together.
 
 ### Browsers
 
-I use [Google Chrome](https://www.google.com/chrome/) for work, and Safari for play. The Chrome Dev Tools are next level, but [Safari](https://www.apple.com/safari/) is cleaner and has better OS itegration,.
+I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](https://www.apple.com/safari/) for play. The Chrome Dev Tools are next level, but Safari is cleaner and has better OS itegration.
 
 #### Safari Extensions
 
-- [1Password](https://safari-extensions.apple.com/details/?id=com.agilebits.onepassword4-safari-2BUA8C4S2C)
-- [Wipr](https://safari-extensions.apple.com/details/?id=com.giorgiocalderolla.wipr-desktop-4449XA862Y)
-- [Instapaper](https://safari-extensions.apple.com/details/?id=com.instapaper.extension-CAM49M58WK)
+- [**1Password**](https://safari-extensions.apple.com/details/?id=com.agilebits.onepassword4-safari-2BUA8C4S2C) - Seamless password autofilling.
+- [**Wipr**](https://safari-extensions.apple.com/details/?id=com.giorgiocalderolla.wipr-desktop-4449XA862Y) - Super light weight and open-source ad-blocker and tracking prevention.
+- [**Instapaper**](https://safari-extensions.apple.com/details/?id=com.instapaper.extension-CAM49M58WK) - Minimalist reading list.
 
 #### Chrome Extensions
 
-- [1Password X](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa)
-- [Bookmarks Bar Switcher](https://chrome.google.com/webstore/detail/bookmarks-bar-switcher/lcaelgondnfehcambmdhhfokjknhfahc)
-- [Instapaper](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh)
-- [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
-- [Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
-- [Better Jira](https://chrome.google.com/webstore/detail/better-jira/adjlkmhgnjccbagimdppnminndehkmgl)
+- [**1Password X**](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa) - Seamless password autofilling.
+- [**Bookmarks Bar Switcher**](https://chrome.google.com/webstore/detail/bookmarks-bar-switcher/lcaelgondnfehcambmdhhfokjknhfahc) - Allows you to swap out your bookmarks bar at will -- I use it to seperate my **personal** and **work** bookmarks.
+- [**Instapaper**](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh) - Minimalist reading list.
+- [**LastPass**](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Useful for when other LastPass users have passwords to share. Otherwise, I stick to 1Password.
+- [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Takes seamless full-page screenshots.
+- [**Better Jira**](https://chrome.google.com/webstore/detail/better-jira/adjlkmhgnjccbagimdppnminndehkmgl) - Makes Jira much more presentable for stand-ups.
