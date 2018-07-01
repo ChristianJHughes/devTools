@@ -208,13 +208,13 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 
 ### Great Teachers
 
-**Blogs**
+#### Blogs
 
 - [**Aaron Krauss's Blog**](https://thesocietea.org)
 - [**Bob Nystrom's Blog**](http://journal.stuffwithstuff.com)
 - [**Hackernoon**](https://hackernoon.com)
 
-**YouTube**
+#### YouTube
 
 - [**DevTips**](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [**Programming with Mosh**](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
@@ -226,7 +226,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**The 8-Bit Guy**](https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww)
 - [**Retro Game Mechanics Explained**](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
 
-**Reddit**
+#### Reddit
 - [**/r/programming**](https://www.reddit.com/r/programming/)
 - [**/r/webdev**](https://www.reddit.com/r/webdev/)
 - [**/r/web_design**](https://www.reddit.com/r/web_design/)
