@@ -259,3 +259,4 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 ### Informative Articles
 
 - [**Imperative vs. Declarative Programming**](https://medium.freecodecamp.org/imperative-vs-declarative-programming-283e96bf8aea)
+- [**GitHub Flow**](http://scottchacon.com/2011/08/31/github-flow.html)
