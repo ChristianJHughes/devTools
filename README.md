@@ -2,11 +2,12 @@
 
 **🎒 My toolkit for getting work done.**
 
-This repo contains the **configuration** and **reference** for my dev tools.
+This repo contains **configuration** and **reference** for my dev tools.
 
 - [Terminal](#terminal)
 - [Editor](#editor)
 - [Desktop Tools](#desktop-tools)
+- [Web Resources](#web-resources)
 
 ## Terminal
 
@@ -131,23 +132,33 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 
 - [**ToothFairy**](https://itunes.apple.com/us/app/toothfairy/id1191449274?mt=12) - I love my airpods, but digging through the Bluetooth menu to connect them is a first-world hastle. ToothFairy gives you a one click shortcut!
 
-![ToothFairy](https://i.imgur.com/L5hqIGh.png)
+<p align="center">
+  <img width="600" src="https://i.imgur.com/L5hqIGh.png">
+</p>
 
 - [**Vanilla**](https://matthewpalmer.net/vanilla/) - Is your menu bar getting cluttered? Vanilla will hide the icons that you rarely use.
 
-![Vanilla](https://i.imgur.com/wa0OBzl.png)
+<p align="center">
+  <img width="630" src="https://i.imgur.com/wa0OBzl.png">
+</p>
 
 - [**Amphetamine**](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12) - Keep your Mac from sleeping with a button in the menu bar. Don't do drugs, kids!
 
-![Amphetamine](https://i.imgur.com/ScOIxYX.png)
+<p align="center">
+  <img width="860" src="https://i.imgur.com/ScOIxYX.png">
+</p>
 
 - [**Magnet**](http://magnet.crowdcafe.com) - Adds window snapping and resizing with simple keyboard shortcuts ([Specatcle](https://www.spectacleapp.com) is a good free open-source alternative).
 
-![Magnet](https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/98/c6/ff/98c6ff8e-1d13-1a2b-5946-6bcd1aff8451/pr_source.png/643x0w.png)
+<p align="center">
+  <img width="700" src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/98/c6/ff/98c6ff8e-1d13-1a2b-5946-6bcd1aff8451/pr_source.png/643x0w.png">
+</p>
 
 - [**Rocket**](https://matthewpalmer.net/rocket/) - Add emotions anywhere by using the `:` shortcut, just like in [Slack](https://slack.com) 🎉!
 
-![Rocket](https://matthewpalmer.net/rocket/bigdemo.gif)
+<p align="center">
+  <img width="400" src="https://matthewpalmer.net/rocket/bigdemo.gif">
+</p>
 
 ### Programming
 
@@ -162,7 +173,7 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 
 - [**Things 3**](https://culturedcode.com/things/) - The best To-Do list app in existence. I have obsessively tried tons of to-do list style apps, and this one is my favorite by a large margin. It's clean, powerful, and reliable. Pricey but worth it.
 - [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/) - Don't make me use Office.
-- [**Slack**](https://slack.com) - I started using Slack in March 2018, and it's quickly become my favorite chat client.
+- [**Slack**](https://slack.com) ([Playstation theme](https://slackthemes.net/#/playstation)) - I started using Slack in March 2018, and it's quickly become my favorite chat client.
 - [**Discord**](https://discordapp.com) - Discord is the best cross-platform *voice* chat that I've ever used.
 
 ### Utilities
@@ -191,3 +202,5 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**LastPass**](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Useful for when other LastPass users have passwords to share. Otherwise, I stick to 1Password.
 - [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Takes seamless full-page screenshots.
 - [**Better Jira**](https://chrome.google.com/webstore/detail/better-jira/adjlkmhgnjccbagimdppnminndehkmgl) - Makes Jira much more presentable for stand-ups.
+
+## Web Resources
