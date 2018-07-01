@@ -208,7 +208,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 
 ### For Fun
 
-- [**Steam**](https://store.steampowered.com) - It's steam.
+- [**Steam**](https://store.steampowered.com) - It's Steam.
 - [**OpenEMU**](http://openemu.org) - An amazing Mac application that can emualate a great many retro game systems.
 - [**Spotify**](https://www.spotify.com) - [Apple Music](https://www.apple.com/music/) is my daily driver, but I keep Spotify installed for it's social features.
 - [**Hearthstone**](https://playhearthstone.com/en-us/) - The only PC game I play reliably.
