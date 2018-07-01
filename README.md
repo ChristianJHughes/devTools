@@ -171,6 +171,8 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 - [**XCode**](https://developer.apple.com/xcode/) - Apple's IDE for Apple's OS's. I use it rarely right now.
 - [**CodeRunner**](https://coderunnerapp.com) - A lightweight IDE that can run a ton of different lanugages. I use it for writing quick Java and Python scripts.
 - [**Sequel Pro**](https://www.sequelpro.com) - Great visual utility for MySQL databases.
+- [**Docker**](https://www.docker.com) - For running Docker containers.
+- [**Transmit**](https://panic.com/transmit/) - A beautiful client for interacting with remote file systems.
 
 ### Productivity
 
