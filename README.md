@@ -215,15 +215,13 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 
 ## Web Resources
 
-### Great Teachers
-
-#### Blogs
+### Blogs
 
 - [**Aaron Krauss's Blog**](https://thesocietea.org)
 - [**Bob Nystrom's Blog**](http://journal.stuffwithstuff.com)
 - [**Hackernoon**](https://hackernoon.com)
 
-#### YouTube
+### YouTube
 
 - [**DevTips**](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 - [**Programming with Mosh**](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
@@ -235,7 +233,8 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**The 8-Bit Guy**](https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww)
 - [**Retro Game Mechanics Explained**](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
 
-#### Reddit
+### Reddit
+
 - [**/r/programming**](https://www.reddit.com/r/programming/)
 - [**/r/webdev**](https://www.reddit.com/r/webdev/)
 - [**/r/web_design**](https://www.reddit.com/r/web_design/)
@@ -243,9 +242,20 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**/r/ProgrammerTIL**](https://www.reddit.com/r/ProgrammerTIL/)
 
 ### Reference
+
 - [**Big-O Cheat Sheet**](http://bigocheatsheet.com)
 - [**Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 - [**Front End Interview Handbook**](https://github.com/yangshun/front-end-interview-handbook)
 - [**Terminal Mac Cheatsheet**](https://github.com/0nn0/terminal-mac-cheatsheet)
+
+### Required Reading
+
 - [**Cracking the Coding Interview**](http://www.crackingthecodinginterview.com)
 - [**Game Programming Patterns**](http://gameprogrammingpatterns.com)
+- [**In the Beginning... Was the Command Line**](https://github.com/bibanon/bibanon/blob/master/Stories/In-the-Beginning-There-was-the-Command-Line.md)
+- [**The Graphing Calculator Story**](https://www.pacifict.com/Story/)
+- [**The Hardest Program I've Ever Written**](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+
+### Informative Articles
+
+- [**Imperative vs. Declarative Programming**](https://medium.freecodecamp.org/imperative-vs-declarative-programming-283e96bf8aea)
