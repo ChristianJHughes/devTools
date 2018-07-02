@@ -48,6 +48,9 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**node**](https://nodejs.org/en/)
 - [**yarn**](https://yarnpkg.com/en/)
 - [**java**](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [**jenv**](http://www.jenv.be)
+- [**maven**](http://brewformulas.org/Maven)
+- [**mysql**](http://brewformulas.org/Mysql)
 - [**screenfetch**](https://github.com/KittyKatt/screenFetch)
 
 #### Via `yarn` & `npm`
