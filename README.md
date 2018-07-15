@@ -60,6 +60,7 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**webpack**](https://www.npmjs.com/package/webpack)
 - [**prettier**](https://www.npmjs.com/package/prettier)
 - [**eslint**](https://www.npmjs.com/package/eslint)
+- [**trash-cli**](https://github.com/sindresorhus/trash-cli)
 
 #### Via `curl`
 
@@ -124,6 +125,10 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 - [**Prettier - Code formatter**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [**Settings Sync**](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [**yarn**](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn)
+- [**SCSS IntelliSense**](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- [**stylefmt**](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-stylefmt)
+- [**Project Manager**](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [**Auto Rename Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 ## Desktop Tools
 

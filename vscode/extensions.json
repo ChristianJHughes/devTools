@@ -11,13 +11,23 @@
   },
   {
     "metadata": {
+      "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+      "publisherId": "formulahendry.auto-rename-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-rename-tag",
+    "publisher": "formulahendry",
+    "version": "0.0.15"
+  },
+  {
+    "metadata": {
       "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
       "publisherId": "CoenraadS.bracket-pair-colorizer",
       "publisherDisplayName": "CoenraadS"
     },
     "name": "bracket-pair-colorizer",
     "publisher": "CoenraadS",
-    "version": "1.0.58"
+    "version": "1.0.59"
   },
   {
     "metadata": {
@@ -27,7 +37,17 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "2.9.2"
+    "version": "3.0.0"
+  },
+  {
+    "metadata": {
+      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
+      "publisherId": "streetsidesoftware.code-spell-checker",
+      "publisherDisplayName": "streetsidesoftware"
+    },
+    "name": "code-spell-checker",
+    "publisher": "streetsidesoftware",
+    "version": "1.6.10"
   },
   {
     "metadata": {
@@ -47,7 +67,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.6.0"
+    "version": "4.8.0"
   },
   {
     "metadata": {
@@ -131,23 +151,13 @@
   },
   {
     "metadata": {
-      "id": "198a707e-28af-4e84-8610-6e2f628dd12d",
-      "publisherId": "redhat.java",
-      "publisherDisplayName": "redhat"
-    },
-    "name": "java",
-    "publisher": "redhat",
-    "version": "0.27.0"
-  },
-  {
-    "metadata": {
       "id": "98790d67-10fa-497c-9113-f6c7489207b2",
       "publisherId": "yzhang.markdown-all-in-one",
       "publisherDisplayName": "yzhang"
     },
     "name": "markdown-all-in-one",
     "publisher": "yzhang",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "metadata": {
@@ -177,7 +187,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.5.0"
+    "version": "3.5.1"
   },
   {
     "metadata": {
@@ -241,6 +251,16 @@
   },
   {
     "metadata": {
+      "id": "1b747f06-3789-4ebd-ac99-f1fe430c3347",
+      "publisherId": "alefragnani.project-manager",
+      "publisherDisplayName": "alefragnani"
+    },
+    "name": "project-manager",
+    "publisher": "alefragnani",
+    "version": "8.0.0"
+  },
+  {
+    "metadata": {
       "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
       "publisherId": "ms-python.python",
       "publisherDisplayName": "ms-python"
@@ -258,6 +278,16 @@
     "name": "sass-indented",
     "publisher": "robinbentley",
     "version": "1.4.9"
+  },
+  {
+    "metadata": {
+      "id": "f8b5562e-a2d9-49ab-9f91-e7da91998a92",
+      "publisherId": "shinnn.stylelint",
+      "publisherDisplayName": "shinnn"
+    },
+    "name": "stylelint",
+    "publisher": "shinnn",
+    "version": "0.37.0"
   },
   {
     "metadata": {
@@ -291,33 +321,13 @@
   },
   {
     "metadata": {
-      "id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
-      "publisherId": "vscjava.vscode-java-debug",
-      "publisherDisplayName": "vscjava"
+      "id": "c46b0018-f317-4b6c-a785-d2039b27338f",
+      "publisherId": "wix.vscode-import-cost",
+      "publisherDisplayName": "wix"
     },
-    "name": "vscode-java-debug",
-    "publisher": "vscjava",
-    "version": "0.9.0"
-  },
-  {
-    "metadata": {
-      "id": "96f11e1f-1a46-4592-b084-f025b2c2a81f",
-      "publisherId": "vscjava.vscode-java-pack",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-java-pack",
-    "publisher": "vscjava",
-    "version": "0.3.0"
-  },
-  {
-    "metadata": {
-      "id": "67c06b0d-1891-42ca-b2a8-113e79bff069",
-      "publisherId": "vscjava.vscode-java-test",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-java-test",
-    "publisher": "vscjava",
-    "version": "0.6.1"
+    "name": "vscode-import-cost",
+    "publisher": "wix",
+    "version": "2.7.2"
   },
   {
     "metadata": {
@@ -331,23 +341,13 @@
   },
   {
     "metadata": {
-      "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
-      "publisherId": "vscjava.vscode-maven",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-maven",
-    "publisher": "vscjava",
-    "version": "0.9.0"
-  },
-  {
-    "metadata": {
       "id": "ae9e3eb0-3357-4cc0-90ee-598d2d384757",
       "publisherId": "eg2.vscode-npm-script",
       "publisherDisplayName": "eg2"
     },
     "name": "vscode-npm-script",
     "publisher": "eg2",
-    "version": "0.3.4"
+    "version": "0.3.5"
   },
   {
     "metadata": {
@@ -368,6 +368,26 @@
     "name": "vscode-optimize-images",
     "publisher": "fabiospampinato",
     "version": "1.0.4"
+  },
+  {
+    "metadata": {
+      "id": "beb68b20-7c55-471c-9b63-3486f9423566",
+      "publisherId": "mrmlnc.vscode-scss",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-scss",
+    "publisher": "mrmlnc",
+    "version": "0.6.2"
+  },
+  {
+    "metadata": {
+      "id": "b9b38184-b873-4eae-b226-f332c40afd1a",
+      "publisherId": "mrmlnc.vscode-stylefmt",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-stylefmt",
+    "publisher": "mrmlnc",
+    "version": "2.5.0"
   },
   {
     "metadata": {
