@@ -37,7 +37,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "3.0.0"
+    "version": "3.1.1"
   },
   {
     "metadata": {
@@ -67,7 +67,7 @@
     },
     "name": "debugger-for-chrome",
     "publisher": "msjsdiag",
-    "version": "4.8.0"
+    "version": "4.9.0"
   },
   {
     "metadata": {
@@ -147,7 +147,17 @@
     },
     "name": "indent-rainbow",
     "publisher": "oderwat",
-    "version": "7.2.2"
+    "version": "7.2.4"
+  },
+  {
+    "metadata": {
+      "id": "93ecc089-f396-47b4-8676-7fa3bc156a2c",
+      "publisherId": "sysoev.language-stylus",
+      "publisherDisplayName": "sysoev"
+    },
+    "name": "language-stylus",
+    "publisher": "sysoev",
+    "version": "1.10.0"
   },
   {
     "metadata": {
@@ -157,7 +167,7 @@
     },
     "name": "markdown-all-in-one",
     "publisher": "yzhang",
-    "version": "1.5.1"
+    "version": "1.6.0"
   },
   {
     "metadata": {
@@ -167,7 +177,7 @@
     },
     "name": "markdown-preview-github-styles",
     "publisher": "bierner",
-    "version": "0.1.2"
+    "version": "0.1.3"
   },
   {
     "metadata": {
@@ -187,7 +197,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.5.1"
+    "version": "3.5.3"
   },
   {
     "metadata": {
@@ -247,7 +257,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "1.5.0"
+    "version": "1.6.1"
   },
   {
     "metadata": {
@@ -267,7 +277,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2018.6.0"
+    "version": "2018.7.1"
   },
   {
     "metadata": {
@@ -287,7 +297,17 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.37.0"
+    "version": "0.42.0"
+  },
+  {
+    "metadata": {
+      "id": "fb374ce1-5343-46c8-a425-900fdad15523",
+      "publisherId": "wesbos.theme-cobalt2",
+      "publisherDisplayName": "wesbos"
+    },
+    "name": "theme-cobalt2",
+    "publisher": "wesbos",
+    "version": "2.1.6"
   },
   {
     "metadata": {
@@ -301,13 +321,23 @@
   },
   {
     "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "PeterJausovec.vscode-docker",
+      "publisherDisplayName": "PeterJausovec"
+    },
+    "name": "vscode-docker",
+    "publisher": "PeterJausovec",
+    "version": "0.1.0"
+  },
+  {
+    "metadata": {
       "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
       "publisherId": "dbaeumer.vscode-eslint",
       "publisherDisplayName": "dbaeumer"
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.4.12"
+    "version": "1.5.0"
   },
   {
     "metadata": {
@@ -317,7 +347,7 @@
     },
     "name": "vscode-gutter-preview",
     "publisher": "kisstkondoros",
-    "version": "0.12.2"
+    "version": "0.13.1"
   },
   {
     "metadata": {
@@ -327,7 +357,7 @@
     },
     "name": "vscode-import-cost",
     "publisher": "wix",
-    "version": "2.7.2"
+    "version": "2.8.0"
   },
   {
     "metadata": {
@@ -337,7 +367,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.18.0"
+    "version": "0.20.0"
   },
   {
     "metadata": {
@@ -357,7 +387,7 @@
     },
     "name": "vscode-open-in-github",
     "publisher": "ziyasal",
-    "version": "1.3.3"
+    "version": "1.3.5"
   },
   {
     "metadata": {
@@ -407,7 +437,7 @@
     },
     "name": "vscode-todo-highlight",
     "publisher": "wayou",
-    "version": "0.5.12"
+    "version": "1.0.4"
   },
   {
     "metadata": {
@@ -417,7 +447,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "0.0.13"
+    "version": "0.0.15"
   },
   {
     "metadata": {

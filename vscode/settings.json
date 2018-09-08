@@ -1,15 +1,50 @@
 {
+  // EDITOR APPEARANCE SETTINGS - WORKBENCH
   "workbench.statusBar.feedback.visible": false,
-  "window.zoomLevel": 0.5,
   "workbench.sideBar.location": "left",
   "workbench.statusBar.visible": true,
   "workbench.activityBar.visible": true,
+  "workbench.panel.defaultLocation": "right",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Tomorrow Night Blue",
+  "workbench.list.multiSelectModifier": "ctrlCmd",
+  // EDITOR APPEARANCE SETTINGS - WINDOW
+  "window.zoomLevel": 0,
+  "window.openFilesInNewWindow": "on",
+  "window.closeWhenEmpty": true,
+  "window.restoreFullscreen": true,
+  "window.restoreWindows": "all",
+  // EDITOR APPEARANCE SETTINGS - EDITOR
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "all",
   "editor.renderControlCharacters": true,
+  "editor.scrollBeyondLastLine": false,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.smoothScrolling": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  // EDITOR APPEARANCE SETTINGS - ICONS
+  "material-icon-theme.activeIconPack": "angular",
+  "material-icon-theme.hidesExplorerArrows": false,
+  "material-icon-theme.folders.color": "#90a4ae",
+  "material-icon-theme.opacity": 1,
+  // FILE FORMATING SETTINGS
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+  "editor.formatOnPaste": true,
+  "files.autoSave": "onFocusChange",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.tabSize": 2,
+  // SETTINGS SYNC SETTINGS
   "sync.gist": "a4bfc2a1ce736b5ee03cfd930deb0ea1",
-  "sync.lastUpload": "2018-06-25T21:58:27.976Z",
-  "sync.lastDownload": "2018-07-15T03:53:30.619Z",
+  "sync.lastUpload": "2018-08-15T20:41:55.523Z",
+  "sync.lastDownload": "2018-06-21T13:46:54.650Z",
   "sync.forceDownload": false,
   "sync.host": "",
   "sync.pathPrefix": "",
@@ -17,15 +52,49 @@
   "sync.askGistName": false,
   "sync.removeExtensions": true,
   "sync.syncExtensions": true,
-  "editor.formatOnPaste": true,
-  "editor.scrollBeyondLastLine": false,
-  "editor.wordWrap": "on",
-  "editor.fontSize": 14,
-  "files.insertFinalNewline": true,
-  "terminal.integrated.shell.osx": "/bin/zsh",
-  "terminal.integrated.fontSize": 14,
+  "sync.autoDownload": false,
+  "sync.autoUpload": false,
+  // GIT SETTINGS
   "git.autofetch": true,
   "git.enableSmartCommit": true,
+  "git.defaultCloneDirectory": "~/dev/repos",
+  "git.promptToSaveFilesBeforeCommit": true,
+  "git.confirmSync": false,
+  // TERMINAL SETTINGS
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.fontSize": 13,
+  // PRETTIER SETTINGS
+  "prettier.tabWidth": 2,
+  "prettier.arrowParens": "always",
+  "prettier.singleQuote": true,
+  "prettier.eslintIntegration": true,
+  // STYLE LINTER SETTINGS: Stylelint Handles it
+  "prettier.disableLanguages": ["vue", "scss", "css"],
+  "scss.validate": false,
+  "css.validate": false,
+  "less.validate": false,
+  // PLUGIN SETTINGS
+  "indentRainbow.updateDelay": 10,
+  "npm.enableScriptExplorer": true,
+  "npm.packageManager": "yarn",
+  "html-css-class-completion.includeGlobPattern": "**/*.{css,html,ftl,scss}",
+  "color-highlight.matchWords": true,
+  "gutterpreview.showimagepreviewongutter": false,
+  "yarn.runInTerminal": true,
+  "emmet.includeLanguages": {
+    "ftl": "html"
+  },
+  "optimizeImages.app": "imageOptim",
+  "npm.scriptExplorerAction": "run",
+  "explorer.confirmDragAndDrop": false,
+  "eslint.packageManager": "yarn",
+  "scss.scannerExclude": [
+    "**/.git",
+    "**/node_modules/!(gazelle-design-system)",
+    "**/bower_components"
+  ],
+  "projectManager.git.baseFolders": ["/Users/christian.hughes/dev/repos"],
+  "projectManager.git.maxDepthRecursion": 1,
   "auto-close-tag.activationOnLanguage": [
     "xml",
     "php",
@@ -46,69 +115,12 @@
     "HTML (Eex)",
     "ftl"
   ],
-  "prettier.tabWidth": 2,
-  "prettier.arrowParens": "always",
-  "prettier.singleQuote": true,
-  "editor.formatOnSave": true,
-  "[html]": {
-    "editor.formatOnSave": false
+  "terminal.integrated.shellArgs.osx": [],
+  "markdown.extension.toc.updateOnSave": false,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#001c40",
+    "panel.border": "#001c40",
+    "panel.background": "#001c40"
   },
-  "indentRainbow.updateDelay": 10,
-  "files.autoSave": "onFocusChange",
-  "editor.smoothScrolling": true,
-  "npm.enableScriptExplorer": true,
-  "npm.packageManager": "yarn",
-  "html-css-class-completion.includeGlobPattern": "**/*.{css,html,ftl,scss}",
-  "color-highlight.matchWords": true,
-  "gutterpreview.showimagepreviewongutter": false,
-  "git.defaultCloneDirectory": "~/dev/repos",
-  "git.promptToSaveFilesBeforeCommit": true,
-  "yarn.runInTerminal": true,
-  "emmet.includeLanguages": {
-    "ftl": "html"
-  },
-  "html.suggest.angular1": false,
-  "files.trimFinalNewlines": true,
-  "window.newWindowDimensions": "default",
-  "window.openFilesInNewWindow": "on",
-  "window.closeWhenEmpty": true,
-  "window.restoreFullscreen": true,
-  "window.restoreWindows": "all",
-  "workbench.panel.defaultLocation": "right",
-  "workbench.startupEditor": "newUntitledFile",
-  "files.trimTrailingWhitespace": true,
-  "workbench.iconTheme": "material-icon-theme",
-  "material-icon-theme.activeIconPack": "angular",
-  "material-icon-theme.hidesExplorerArrows": false,
-  "material-icon-theme.folders.color": "#90a4ae",
-  "material-icon-theme.opacity": 1,
-  "workbench.list.multiSelectModifier": "ctrlCmd",
-  "editor.multiCursorModifier": "ctrlCmd",
-  "workbench.colorTheme": "Tomorrow Night Blue",
-  "optimizeImages.app": "imageOptim",
-  "npm.scriptExplorerAction": "run",
-  "prettier.eslintIntegration": true,
-  "git.confirmSync": false,
-  "explorer.confirmDragAndDrop": false,
-  "editor.tabSize": 2,
-  "eslint.packageManager": "yarn",
-  "scss.scannerExclude": [
-    "**/.git",
-    "**/node_modules/!(gazelle-design-system)",
-    "**/bower_components"
-  ],
-  "sync.autoDownload": false,
-  "sync.autoUpload": false,
-  // Turn off prettier and default validations for css syntax -- stylelint will take care of it.
-  "prettier.disableLanguages": [
-    "vue",
-    "scss",
-    "css"
-  ],
-  "scss.validate": false,
-  "css.validate": false,
-  "less.validate": false,
-  "projectManager.git.baseFolders": [
-    "/Users/christianhughes/Documents/dev/repos"
-  ]
+  "breadcrumbs.enabled": true
 }
