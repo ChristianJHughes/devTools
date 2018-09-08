@@ -28,12 +28,12 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 - [**node**](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/node) - Adds `node-docs` command for launching the docs of whatever version of `node` is running.
 - [**colored-man-pages**](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/colored-man-pages) - Adds color highlighting to `man` pages so that you can actually read them.
 - [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) (**essential**) - Automatically suggests commands that you've run before, based on your history.
-- [**z**](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z) (**essential**) - It's like `cd` except 100x smarter. Do you have a `dev` directory that you're always going to? Type `z dev` from *anywhere* *in the file system* and it will take you right there.
-- [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) (**essential**) - Adds syntax highlighting to all commands *as you type them*.
+- [**z**](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/z) (**essential**) - It's like `cd` except 100x smarter. Do you have a `dev` directory that you're always going to? Type `z dev` from _anywhere_ _in the file system_ and it will take you right there.
+- [**zsh-syntax-highlighting**](https://github.com/zsh-users/zsh-syntax-highlighting) (**essential**) - Adds syntax highlighting to all commands _as you type them_.
 
 #### Emulator
 
-The mighty **[terminal.app](https://en.wikipedia.org/wiki/Terminal_(macOS))** is my go-to because of its *speed* and *reliabilty*.
+The mighty **[terminal.app](<https://en.wikipedia.org/wiki/Terminal_(macOS)>)** is my go-to because of its _speed_ and _reliabilty_.
 
 **[Hyper](https://hyper.is)** is installed because it has cute plugins, and is great to look at. I want to love it, but it's too janky to use as a daily driver. I'll probably try to switch once the project is more mature.
 
@@ -52,6 +52,8 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**maven**](http://brewformulas.org/Maven)
 - [**mysql**](http://brewformulas.org/Mysql)
 - [**screenfetch**](https://github.com/KittyKatt/screenFetch)
+- [**bat**](https://github.com/sharkdp/bat)
+- [**diff-so-fancy**](https://github.com/so-fancy/diff-so-fancy)
 
 #### Via `yarn` & `npm`
 
@@ -187,12 +189,12 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 - [**Things 3**](https://culturedcode.com/things/) - The best To-Do list app in existence. I have obsessively tried tons of to-do list style apps, and this one is my favorite by a large margin. It's clean, powerful, and reliable. Pricey but worth it.
 - [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/) - Don't make me use Office.
 - [**Slack**](https://slack.com) ([Playstation theme](https://slackthemes.net/#/playstation)) - I started using Slack in March 2018, and it's quickly become my favorite chat client.
-- [**Discord**](https://discordapp.com) - Discord is the best cross-platform *voice* chat that I've ever used.
+- [**Discord**](https://discordapp.com) - Discord is the best cross-platform _voice_ chat that I've ever used.
 
 ### Utilities
 
 - [**1Password**](https://1password.com) - The best password manager for mac. The UX is consistantly great, and the development team is constantly releasing improvements.
-- [**AppCleaner**](https://freemacsoft.net/appcleaner/) - Dragging an app to the trash doesn't *really* delete an app in macOS. This handy app will fully remove apps that you're not using anymore.
+- [**AppCleaner**](https://freemacsoft.net/appcleaner/) - Dragging an app to the trash doesn't _really_ delete an app in macOS. This handy app will fully remove apps that you're not using anymore.
 - [**ImageOptim**](https://imageoptim.com/mac) - Open-source painless image optimization. A must-have when working with images being published to the web.
 - [**CleanMyMac 3**](https://macpaw.com/cleanmymac) - The best app for removing junk files, cleaning out caches, and fixing permission issues. Just turn off the garbage helper tool.
 - [**PDF Toolkit+**](https://itunes.apple.com/us/app/pdf-toolkit/id545164971?mt=12) - Performs all sorts of useful actions on PDF documents. I frequently use it to stich multiple PDFs together.
