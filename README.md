@@ -62,7 +62,9 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**webpack**](https://www.npmjs.com/package/webpack)
 - [**prettier**](https://www.npmjs.com/package/prettier)
 - [**eslint**](https://www.npmjs.com/package/eslint)
+- [**vuepress**](https://github.com/vuejs/vuepress)
 - [**trash-cli**](https://github.com/sindresorhus/trash-cli)
+- [**DocToc**](https://github.com/thlorenz/doctoc)
 
 #### Via `curl`
 
