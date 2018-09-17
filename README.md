@@ -69,7 +69,10 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 #### Via `curl`
 
 - [**homebrew**](https://brew.sh)
-- [**nvm**](https://github.com/creationix/nvm)
+
+#### Via `git`
+
+- [**asdf**](https://github.com/asdf-vm/asdf)
 
 ## Editor
 
