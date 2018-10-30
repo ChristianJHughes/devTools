@@ -54,6 +54,8 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**screenfetch**](https://github.com/KittyKatt/screenFetch)
 - [**bat**](https://github.com/sharkdp/bat)
 - [**diff-so-fancy**](https://github.com/so-fancy/diff-so-fancy)
+- [**ag**](https://github.com/ggreer/the_silver_searcher)
+- [**tree**](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tree.rb)
 
 #### Via `yarn` & `npm`
 
@@ -65,6 +67,9 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**vuepress**](https://github.com/vuejs/vuepress)
 - [**trash-cli**](https://github.com/sindresorhus/trash-cli)
 - [**DocToc**](https://github.com/thlorenz/doctoc)
+- [**tldr**](https://github.com/tldr-pages/tldr)
+- [**git-open**](https://www.npmjs.com/package/git-open)
+- [**stylelint**](https://www.npmjs.com/package/stylelint)
 
 #### Via `curl`
 
@@ -177,6 +182,8 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
   <img width="400" src="https://matthewpalmer.net/rocket/bigdemo.gif">
 </p>
 
+- [**High Sierra Media Key Enabler**](http://milgra.com/high-sierra-media-key-enabler.html) - Force the media keys control to iTunes, like they have for years.
+
 ### Programming
 
 - [**IntelliJ IDEA**](https://www.jetbrains.com/idea/) - Though I'm not doing much Java development right now, IntelliJ consistantly provides the best experience. It's far more powerful that VSCode for Java, and has far better UX than [Eclipse](https://www.eclipse.org/ide/).
@@ -188,8 +195,10 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 - [**Sequel Pro**](https://www.sequelpro.com) - Great visual utility for MySQL databases.
 - [**Docker**](https://www.docker.com) - For running Docker containers.
 - [**Transmit**](https://panic.com/transmit/) - A beautiful client for interacting with remote file systems.
+- [**Postman**](https://www.getpostman.com) - Ubiquitous REST client and API development toolkit.
+- [**Dash**](https://kapeli.com/dash) - Provides offline, highly searchable documentation for a smorgasbord of languages and frameworks.
 
-### Productivity
+### Productivitysmorgasbord
 
 - [**Things 3**](https://culturedcode.com/things/) - The best To-Do list app in existence. I have obsessively tried tons of to-do list style apps, and this one is my favorite by a large margin. It's clean, powerful, and reliable. Pricey but worth it.
 - [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/) - Don't make me use Office.
@@ -203,6 +212,8 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 - [**ImageOptim**](https://imageoptim.com/mac) - Open-source painless image optimization. A must-have when working with images being published to the web.
 - [**CleanMyMac 3**](https://macpaw.com/cleanmymac) - The best app for removing junk files, cleaning out caches, and fixing permission issues. Just turn off the garbage helper tool.
 - [**PDF Toolkit+**](https://itunes.apple.com/us/app/pdf-toolkit/id545164971?mt=12) - Performs all sorts of useful actions on PDF documents. I frequently use it to stich multiple PDFs together.
+- [**CDTo**](https://github.com/jbtule/cdto) - Adds a button to the Finder toolbar that opens the current directory in a new Terminal Window. A huge time save.
+- [**OpenInCode**](https://github.com/sozercan/OpenInCode) - Adds a button to the Finder toolbar that opens the current directory in a new VSCode Window. A huge time save.
 
 ### Browsers
 
@@ -264,6 +275,8 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Technical Interview Cheat Sheet**](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 - [**Front End Interview Handbook**](https://github.com/yangshun/front-end-interview-handbook)
 - [**Terminal Mac Cheatsheet**](https://github.com/0nn0/terminal-mac-cheatsheet)
+- [**RegexOne**](https://regexone.com)
+- [**MDN Web Docs**](https://developer.mozilla.org/en-US/)
 
 ### Required Reading
 
@@ -272,8 +285,11 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**In the Beginning... Was the Command Line**](https://github.com/bibanon/bibanon/blob/master/Stories/In-the-Beginning-There-was-the-Command-Line.md)
 - [**The Graphing Calculator Story**](https://www.pacifict.com/Story/)
 - [**The Hardest Program I've Ever Written**](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+- [**Conquering The Command Line**](http://conqueringthecommandline.com/book/extras)
+- [**GitHub Open Source Guides**](https://opensource.guide)
 
 ### Informative Articles
 
 - [**Imperative vs. Declarative Programming**](https://medium.freecodecamp.org/imperative-vs-declarative-programming-283e96bf8aea)
 - [**GitHub Flow**](http://scottchacon.com/2011/08/31/github-flow.html)
+- [**Apple File System Reference**](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)/[Unix File System Help](https://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux)
