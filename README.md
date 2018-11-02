@@ -232,7 +232,10 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Instapaper**](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh) - Minimalist reading list.
 - [**LastPass**](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Useful for when other LastPass users have passwords to share. Otherwise, I stick to 1Password.
 - [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Takes seamless full-page screenshots.
-- [**Better Jira**](https://chrome.google.com/webstore/detail/better-jira/adjlkmhgnjccbagimdppnminndehkmgl) - Makes Jira much more presentable for stand-ups.
+- [**File Icon for GitHub, GitLab and Bitbucket**](https://chrome.google.com/webstore/detail/file-icon-for-github-gitl/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en) - Adds a suite of unique file icons to GitHub, determined by the file's extension.
+- [**Octotree**](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-UShttps://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US) - Adds a persistant file tree in GitHub that makes navigating directories seamless. I use it everyday.
+- [**OctoLinker**](https://octolinker.github.io) - Allows you to "jump into" imported files, similar to an IDE.
+- [**Boxcutter**](https://chrome.google.com/webstore/detail/boxcutter/knapnimomamjogbajmmoefhopnebjbff) - Turns the dependencies in GitHub manifest files into links.
 
 ### For Fun
 
