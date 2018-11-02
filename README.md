@@ -56,6 +56,7 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**diff-so-fancy**](https://github.com/so-fancy/diff-so-fancy)
 - [**ag**](https://github.com/ggreer/the_silver_searcher)
 - [**tree**](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tree.rb)
+- [**hub**](https://hub.github.com)
 
 #### Via `yarn` & `npm`
 
