@@ -187,8 +187,13 @@ alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
 
 # CLI Tool Aliases
-alias rm=trash
-alias cat=bat
+alias rm="trash"
+alias cat="bat"
+
+# git Aliases
+alias git="hub"
+alias gitgud="git checkout master && git pull && git checkout -b"
+alias go="git push && git open"
 
 # mgnl-tabcompletion-start
 # load mgnl command tab completion
