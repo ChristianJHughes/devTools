@@ -124,7 +124,6 @@
   "yaml.validate": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.host": "localhost",
-  "cSpell.language": "en",
   "githubPullRequests.hosts": [
     {
       "host": "https://github.com",
