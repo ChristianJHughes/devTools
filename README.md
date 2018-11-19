@@ -33,13 +33,13 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 
 #### Emulator
 
-The mighty **[terminal.app](<https://en.wikipedia.org/wiki/Terminal_(macOS)>)** is my go-to because of its _speed_ and _reliabilty_.
+The mighty **[terminal.app](<https://en.wikipedia.org/wiki/Terminal_(macOS)>)** is my go-to because of its _speed_ and _reliability_.
 
 **[Hyper](https://hyper.is)** is installed because it has cute plugins, and is great to look at. I want to love it, but it's too janky to use as a daily driver. I'll probably try to switch once the project is more mature.
 
 ### Command Line Tools
 
-The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) include many common utilties such as `git` and `gcc`.
+The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) include many common utilities such as `git` and `gcc`.
 
 #### Via `homebrew`
 
@@ -57,6 +57,7 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**ag**](https://github.com/ggreer/the_silver_searcher)
 - [**tree**](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tree.rb)
 - [**hub**](https://hub.github.com)
+- [**httpie**](https://httpie.org)
 
 #### Via `yarn` & `npm`
 
@@ -109,7 +110,7 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 - [**Auto Close Tag**](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [**Bracket Pair Colorizer**](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [**highlight-matching-tag**](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
-- [**Indent-raindow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [**Indent-rainbow**](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [**Output Colorizer**](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 - [**TODO Highlight**](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
@@ -145,15 +146,15 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 
 ## Desktop Tools
 
-I do all of my personal and profesional work on a [15" Macbook Pro](https://www.apple.com/macbook-pro/) (2016 or 2017) running [macOS High Sierra](https://www.apple.com/macos/high-sierra/).
+I do all of my personal and professional work on a [15" Macbook Pro](https://www.apple.com/macbook-pro/) (2016 or 2017) running [macOS Mojave](https://www.apple.com/macos/mojave/).
 
 ### System Enhancements
 
-- [**Alfred 3**](https://www.alfredapp.com) - It's like Spotlight on steroids. It's a ⚡️ fast app launcher, 📁 file searcher, and 💻 system shorcut tool. Plus, it seamlessly integrates with 1Password and your browser bookmarks.
+- [**Alfred 3**](https://www.alfredapp.com) - It's like Spotlight on steroids. It's a ⚡️ fast app launcher, 📁 file searcher, and 💻 system shortcut tool. Plus, it seamlessly integrates with 1Password and your browser bookmarks.
 
 ![Alfred](https://i.imgur.com/fdvy7dM.png)
 
-- [**ToothFairy**](https://itunes.apple.com/us/app/toothfairy/id1191449274?mt=12) - I love my airpods, but digging through the Bluetooth menu to connect them is a first-world hastle. ToothFairy gives you a one click shortcut!
+- [**ToothFairy**](https://itunes.apple.com/us/app/toothfairy/id1191449274?mt=12) - I love my AirPods, but digging through the Bluetooth menu to connect them is a first-world hassle. ToothFairy gives you a one click shortcut!
 
 <p align="center">
   <img width="600" src="https://i.imgur.com/L5hqIGh.png">
@@ -183,21 +184,20 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
   <img width="400" src="https://matthewpalmer.net/rocket/bigdemo.gif">
 </p>
 
-- [**High Sierra Media Key Enabler**](http://milgra.com/high-sierra-media-key-enabler.html) - Force the media keys control to iTunes, like they have for years.
+- [**High Sierra Media Key Enabler**](http://milgra.com/high-sierra-media-key-enabler.html) - Force the media keys control to iTunes, like they have for years. Works in Mojave too.
 
 ### Programming
 
-- [**IntelliJ IDEA**](https://www.jetbrains.com/idea/) - Though I'm not doing much Java development right now, IntelliJ consistantly provides the best experience. It's far more powerful that VSCode for Java, and has far better UX than [Eclipse](https://www.eclipse.org/ide/).
+- [**IntelliJ IDEA**](https://www.jetbrains.com/idea/) - Though I'm not doing much Java development right now, IntelliJ consistently provides the best experience. It's far more powerful that VSCode for Java, and has far better UX than [Eclipse](https://www.eclipse.org/ide/).
 - [**GitHub Desktop**](https://desktop.github.com) - GitHub's desktop client. It's good for viewing visual diffs, but I use the command line (or VSCode) 90% of the time.
 - [**Lepton**](https://github.com/hackjutsu/Lepton) - An open-source [gist](https://gist.github.com) manager. It's not much of a looker, but it gets the job done.
 - [**Atom**](https://atom.io) - A text-editor by GitHub. This was my daily driver for almost two-years before switching to VSCode. I think VSCode is more mature for daily development, but I keep Atom around to keep up with its new releases.
 - [**XCode**](https://developer.apple.com/xcode/) - Apple's IDE for Apple's OS's. I use it rarely right now.
-- [**CodeRunner**](https://coderunnerapp.com) - A lightweight IDE that can run a ton of different lanugages. I use it for writing quick Java and Python scripts.
+- [**CodeRunner**](https://coderunnerapp.com) - A lightweight IDE that can run a ton of different languages. I use it for writing quick Java and Python scripts.
 - [**Sequel Pro**](https://www.sequelpro.com) - Great visual utility for MySQL databases.
 - [**Docker**](https://www.docker.com) - For running Docker containers.
 - [**Transmit**](https://panic.com/transmit/) - A beautiful client for interacting with remote file systems.
 - [**Postman**](https://www.getpostman.com) - Ubiquitous REST client and API development toolkit.
-- [**Dash**](https://kapeli.com/dash) - Provides offline, highly searchable documentation for a smorgasbord of languages and frameworks.
 
 ### Productivitysmorgasbord
 
@@ -208,17 +208,17 @@ I do all of my personal and profesional work on a [15" Macbook Pro](https://www.
 
 ### Utilities
 
-- [**1Password**](https://1password.com) - The best password manager for mac. The UX is consistantly great, and the development team is constantly releasing improvements.
+- [**1Password**](https://1password.com) - The best password manager for mac. The UX is consistently great, and the development team is constantly releasing improvements.
 - [**AppCleaner**](https://freemacsoft.net/appcleaner/) - Dragging an app to the trash doesn't _really_ delete an app in macOS. This handy app will fully remove apps that you're not using anymore.
 - [**ImageOptim**](https://imageoptim.com/mac) - Open-source painless image optimization. A must-have when working with images being published to the web.
 - [**CleanMyMac 3**](https://macpaw.com/cleanmymac) - The best app for removing junk files, cleaning out caches, and fixing permission issues. Just turn off the garbage helper tool.
-- [**PDF Toolkit+**](https://itunes.apple.com/us/app/pdf-toolkit/id545164971?mt=12) - Performs all sorts of useful actions on PDF documents. I frequently use it to stich multiple PDFs together.
+- [**PDF Toolkit+**](https://itunes.apple.com/us/app/pdf-toolkit/id545164971?mt=12) - Performs all sorts of useful actions on PDF documents. I frequently use it to stitch multiple PDFs together.
 - [**CDTo**](https://github.com/jbtule/cdto) - Adds a button to the Finder toolbar that opens the current directory in a new Terminal Window. A huge time save.
 - [**OpenInCode**](https://github.com/sozercan/OpenInCode) - Adds a button to the Finder toolbar that opens the current directory in a new VSCode Window. A huge time save.
 
 ### Browsers
 
-I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](https://www.apple.com/safari/) for play. The Chrome Dev Tools are next level, but Safari is cleaner and has better OS itegration.
+I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](https://www.apple.com/safari/) for play. The Chrome Dev Tools are next level, but Safari is cleaner and has better OS integration.
 
 #### Safari Extensions
 
@@ -229,7 +229,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 #### Chrome Extensions
 
 - [**1Password X**](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa) - Seamless password autofilling.
-- [**Bookmarks Bar Switcher**](https://chrome.google.com/webstore/detail/bookmarks-bar-switcher/lcaelgondnfehcambmdhhfokjknhfahc) - Allows you to swap out your bookmarks bar at will -- I use it to seperate my **personal** and **work** bookmarks.
+- [**Bookmarks Bar Switcher**](https://chrome.google.com/webstore/detail/bookmarks-bar-switcher/lcaelgondnfehcambmdhhfokjknhfahc) - Allows you to swap out your bookmarks bar at will -- I use it to separate my **personal** and **work** bookmarks.
 - [**Instapaper**](https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh) - Minimalist reading list.
 - [**LastPass**](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Useful for when other LastPass users have passwords to share. Otherwise, I stick to 1Password.
 - [**Fireshot**](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) - Takes seamless full-page screenshots.
@@ -241,7 +241,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 ### For Fun
 
 - [**Steam**](https://store.steampowered.com) - It's Steam.
-- [**OpenEMU**](http://openemu.org) - An amazing Mac application that can emualate a great many retro game systems.
+- [**OpenEMU**](http://openemu.org) - An amazing Mac application that can emulate a great many retro game systems.
 - [**Spotify**](https://www.spotify.com) - [Apple Music](https://www.apple.com/music/) is my daily driver, but I keep Spotify installed for it's social features.
 - [**Hearthstone**](https://playhearthstone.com/en-us/) - The only PC game I play reliably.
 
