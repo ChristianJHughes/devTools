@@ -4,11 +4,25 @@
 	username = ChristianJHughes
 [diff]
 	tool = vscode
+	renames = true
 [difftool "vscode"]
 	cmd = code --wait --diff $LOCAL $REMOTE
+[merge]
+	tool = vscode
+	ff = only
 [core]
 	editor = code --wait
 	pager = diff-so-fancy | less --tabs=4 -RFX
+	autocrlf = input
+	excludesfile = ~/.gitignore
+[branch]
+	autosetuprebase = always
+[pull]
+	rebase = true
+[push]
+	default = current
+[credential]
+	helper = osxkeychain
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
@@ -16,6 +30,9 @@
 	process = git-lfs filter-process
 [color]
 	ui = true
+	branch = auto
+	diff = auto
+	status = auto
 [color "diff-highlight"]
 	oldNormal = red bold
 	oldHighlight = red bold 52
