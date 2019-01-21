@@ -252,6 +252,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Aaron Krauss's Blog**](https://thesocietea.org)
 - [**Bob Nystrom's Blog**](http://journal.stuffwithstuff.com)
 - [**Hackernoon**](https://hackernoon.com)
+- [**Code Without Rules**](https://codewithoutrules.com)
 
 ### YouTube
 
