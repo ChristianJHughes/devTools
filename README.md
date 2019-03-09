@@ -58,6 +58,8 @@ The [XCode Command Line Tools](https://developer.apple.com/xcode/features/) incl
 - [**tree**](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tree.rb)
 - [**hub**](https://hub.github.com)
 - [**httpie**](https://httpie.org)
+- [**python**](https://docs.brew.sh/Homebrew-and-Python)
+- [sqlite](https://formulae.brew.sh/formula/sqlite)
 
 #### Via `yarn` & `npm`
 
@@ -118,6 +120,7 @@ I use the **[Tomorrow Night Blue](https://github.com/chriskempson/tomorrow-theme
 
 ##### Other
 
+- [**AREPL for python**](https://marketplace.visualstudio.com/items?itemName=almenon.arepl)
 - [**CSS Peek**](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [**Debugger for Chrome**](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [**EditorConfig for VS Code**](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)

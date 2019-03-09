@@ -195,6 +195,10 @@ alias git="hub"
 alias gitgud="git checkout master && git pull && git checkout -b"
 alias go="git push && git open"
 
+# python Aliases - Migrates fhe default from python 2.x -> 3.x
+alias python="python3"
+alias pip="pip3"
+
 # mgnl-tabcompletion-start
 # load mgnl command tab completion
 autoload bashcompinit
