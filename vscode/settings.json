@@ -1,9 +1,6 @@
 {
-  // EDITOR APPEARANCE SETTINGS - WORKBENCH
-  "workbench.statusBar.feedback.visible": false,
   "workbench.sideBar.location": "left",
-  "workbench.statusBar.visible": true,
-  "workbench.activityBar.visible": true,
+  "workbench.activityBar.visible": false,
   "workbench.panel.defaultLocation": "right",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.iconTheme": "material-icon-theme",
@@ -11,7 +8,7 @@
   "workbench.list.multiSelectModifier": "ctrlCmd",
   "workbench.editor.highlightModifiedTabs": true,
   // EDITOR APPEARANCE SETTINGS - WINDOW
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
   "window.openFilesInNewWindow": "on",
   "window.closeWhenEmpty": true,
   "window.restoreFullscreen": true,
@@ -28,7 +25,6 @@
   "editor.tabCompletion": "on",
   // EDITOR APPEARANCE SETTINGS - ICONS
   "material-icon-theme.activeIconPack": "angular",
-  "material-icon-theme.hidesExplorerArrows": false,
   "material-icon-theme.folders.color": "#90a4ae",
   "material-icon-theme.opacity": 1,
   // FILE FORMATING SETTINGS
@@ -46,7 +42,7 @@
   // SETTINGS SYNC SETTINGS
   "sync.gist": "a4bfc2a1ce736b5ee03cfd930deb0ea1",
   "sync.forceDownload": false,
-  "sync.quietSync": false,
+  "sync.quietSync": true,
   "sync.askGistName": false,
   "sync.removeExtensions": true,
   "sync.syncExtensions": true,
@@ -111,25 +107,34 @@
     "HTML (Eex)",
     "ftl"
   ],
-  "markdown.extension.toc.updateOnSave": false,
   "workbench.colorCustomizations": {
     "terminal.background": "#001c40",
     "panel.border": "#001c40",
     "panel.background": "#001c40",
-    "tab.activeBackground": "#143559",
-    "editor.selectionBackground": "#006efeb6",
-    "editor.selectionHighlightBackground": "#559fff45"
+    "tab.activeBackground": "#143559"
   },
   "breadcrumbs.enabled": true,
   "yaml.validate": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.host": "localhost",
-  "githubPullRequests.hosts": [
-    {
-      "host": "https://github.com",
-      "username": "oauth",
-      "token": "system"
-    }
-  ],
-  "search.location": "panel"
+  "search.location": "panel",
+  "python.jediEnabled": false,
+  "python.pythonPath": "/usr/local/bin/python3",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.formatting.provider": "none",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.statusBar.visible": true,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.indent": 20,
+  "markdown.extension.toc.updateOnSave": false,
+  "markdown.extension.tableFormatter.enabled": false,
+  "markdown.extension.italic.indicator": "_",
+  "markdown.extension.toc.unorderedList.marker": "*"
 }

@@ -1,6 +1,16 @@
 [
   {
     "metadata": {
+      "id": "88eb8072-5ab1-457b-9835-6d92196388a3",
+      "publisherId": "almenon.arepl",
+      "publisherDisplayName": "almenon"
+    },
+    "name": "arepl",
+    "publisher": "almenon",
+    "version": "1.0.8"
+  },
+  {
+    "metadata": {
       "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
       "publisherId": "formulahendry.auto-close-tag",
       "publisherDisplayName": "formulahendry"
@@ -27,7 +37,7 @@
     },
     "name": "bracket-pair-colorizer-2",
     "publisher": "CoenraadS",
-    "version": "0.0.23"
+    "version": "0.0.26"
   },
   {
     "metadata": {
@@ -47,17 +57,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "3.2.0"
-  },
-  {
-    "metadata": {
-      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
-      "publisherId": "streetsidesoftware.code-spell-checker",
-      "publisherDisplayName": "streetsidesoftware"
-    },
-    "name": "code-spell-checker",
-    "publisher": "streetsidesoftware",
-    "version": "1.6.10"
+    "version": "3.2.4"
   },
   {
     "metadata": {
@@ -97,7 +97,7 @@
     },
     "name": "EditorConfig",
     "publisher": "EditorConfig",
-    "version": "0.12.5"
+    "version": "0.12.8"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "freemarker-magnolia-snippets",
     "publisher": "fentech",
-    "version": "1.1.5"
+    "version": "1.1.6"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "highlight-matching-tag",
     "publisher": "vincaslt",
-    "version": "0.8.4"
+    "version": "0.8.6"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "html-css-class-completion",
     "publisher": "Zignd",
-    "version": "1.17.1"
+    "version": "1.18.0"
   },
   {
     "metadata": {
@@ -177,7 +177,7 @@
     },
     "name": "java",
     "publisher": "redhat",
-    "version": "0.34.0"
+    "version": "0.38.0"
   },
   {
     "metadata": {
@@ -187,7 +187,7 @@
     },
     "name": "LiveServer",
     "publisher": "ritwickdey",
-    "version": "5.2.0"
+    "version": "5.4.0"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "markdown-all-in-one",
     "publisher": "yzhang",
-    "version": "1.7.0"
+    "version": "2.0.1"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "markdown-shortcuts",
     "publisher": "mdickin",
-    "version": "0.9.0"
+    "version": "0.11.0"
   },
   {
     "metadata": {
@@ -227,7 +227,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.6.0"
+    "version": "3.6.3"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "1.7.2"
+    "version": "1.8.1"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2018.10.1"
+    "version": "2019.1.0"
   },
   {
     "metadata": {
@@ -317,7 +317,17 @@
     },
     "name": "sass-indented",
     "publisher": "robinbentley",
-    "version": "1.4.9"
+    "version": "1.5.1"
+  },
+  {
+    "metadata": {
+      "id": "7d236dd4-6af6-48f4-9464-6bf82ad36aaa",
+      "publisherId": "ban.spellright",
+      "publisherDisplayName": "ban"
+    },
+    "name": "spellright",
+    "publisher": "ban",
+    "version": "3.0.24"
   },
   {
     "metadata": {
@@ -327,7 +337,7 @@
     },
     "name": "stylelint",
     "publisher": "shinnn",
-    "version": "0.46.1"
+    "version": "0.48.0"
   },
   {
     "metadata": {
@@ -337,7 +347,7 @@
     },
     "name": "vscode-css-peek",
     "publisher": "pranaygp",
-    "version": "2.1.0"
+    "version": "2.2.0"
   },
   {
     "metadata": {
@@ -347,7 +357,7 @@
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.3.1"
+    "version": "0.5.2"
   },
   {
     "metadata": {
@@ -357,7 +367,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.7.0"
+    "version": "1.8.0"
   },
   {
     "metadata": {
@@ -367,7 +377,7 @@
     },
     "name": "vscode-import-cost",
     "publisher": "wix",
-    "version": "2.9.0"
+    "version": "2.12.0"
   },
   {
     "metadata": {
@@ -377,7 +387,17 @@
     },
     "name": "vscode-java-debug",
     "publisher": "vscjava",
-    "version": "0.15.0"
+    "version": "0.16.0"
+  },
+  {
+    "metadata": {
+      "id": "7865e561-1c83-410e-9b99-aabada597a7e",
+      "publisherId": "vscjava.vscode-java-dependency",
+      "publisherDisplayName": "vscjava"
+    },
+    "name": "vscode-java-dependency",
+    "publisher": "vscjava",
+    "version": "0.3.0"
   },
   {
     "metadata": {
@@ -387,7 +407,7 @@
     },
     "name": "vscode-java-test",
     "publisher": "vscjava",
-    "version": "0.10.0"
+    "version": "0.14.0"
   },
   {
     "metadata": {
@@ -397,17 +417,7 @@
     },
     "name": "vscode-markdownlint",
     "publisher": "DavidAnson",
-    "version": "0.21.0"
-  },
-  {
-    "metadata": {
-      "id": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312",
-      "publisherId": "vscjava.vscode-maven",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-maven",
-    "publisher": "vscjava",
-    "version": "0.11.1"
+    "version": "0.24.0"
   },
   {
     "metadata": {
@@ -437,7 +447,7 @@
     },
     "name": "vscode-optimize-images",
     "publisher": "fabiospampinato",
-    "version": "1.0.7"
+    "version": "1.1.0"
   },
   {
     "metadata": {
@@ -447,7 +457,7 @@
     },
     "name": "vscode-pull-request-github",
     "publisher": "GitHub",
-    "version": "0.2.3"
+    "version": "0.4.0"
   },
   {
     "metadata": {
@@ -497,7 +507,7 @@
     },
     "name": "vscode-yaml",
     "publisher": "redhat",
-    "version": "0.1.0"
+    "version": "0.2.1"
   },
   {
     "metadata": {
@@ -508,5 +518,15 @@
     "name": "vscode-yarn",
     "publisher": "gamunu",
     "version": "1.6.0"
+  },
+  {
+    "metadata": {
+      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+      "publisherDisplayName": "VisualStudioExptTeam"
+    },
+    "name": "vscodeintellicode",
+    "publisher": "VisualStudioExptTeam",
+    "version": "1.1.3"
   }
 ]
