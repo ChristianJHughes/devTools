@@ -172,11 +172,7 @@ I do all of my personal and professional work on a [15" Macbook Pro](https://www
   <img width="860" src="https://i.imgur.com/ScOIxYX.png">
 </p>
 
-- [**Magnet**](http://magnet.crowdcafe.com) - Adds window snapping and resizing with simple keyboard shortcuts ([Specatcle](https://www.spectacleapp.com) is a good free open-source alternative).
-
-<p align="center">
-  <img width="700" src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/98/c6/ff/98c6ff8e-1d13-1a2b-5946-6bcd1aff8451/pr_source.png/643x0w.png">
-</p>
+- [**Spectacle**](https://www.spectacleapp.com/) - Adds window snapping and resizing with simple keyboard shortcuts. It's free and open source. ([**Magnet**](http://magnet.crowdcafe.com) is a high quality paid alternative).
 
 - [**Rocket**](https://matthewpalmer.net/rocket/) - Add emotions anywhere by using the `:` shortcut, just like in [Slack](https://slack.com) 🎉!
 
@@ -296,5 +292,6 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 ### Informative Articles
 
 - [**Imperative vs. Declarative Programming**](https://medium.freecodecamp.org/imperative-vs-declarative-programming-283e96bf8aea)
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - [**GitHub Flow**](http://scottchacon.com/2011/08/31/github-flow.html)
 - [**Apple File System Reference**](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)/[Unix File System Help](https://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux)
