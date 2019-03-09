@@ -212,6 +212,40 @@ I do all of my personal and professional work on a [15" Macbook Pro](https://www
 - [**CDTo**](https://github.com/jbtule/cdto) - Adds a button to the Finder toolbar that opens the current directory in a new Terminal Window. A huge time save.
 - [**OpenInCode**](https://github.com/sozercan/OpenInCode) - Adds a button to the Finder toolbar that opens the current directory in a new VSCode Window. A huge time save.
 
+### macOS System Settings
+
+#### Key Speed
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/Xt43lzg.png">
+</p>
+
+#### Login Items
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/t5Fwgfa.png">
+</p>
+
+#### Hot Corners
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/qbS5WmA.png">
+</p>
+
+#### Trackpad
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/3aZ5SVd.png">
+</p>
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/u6GNORT.png">
+</p>
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/r3TkSNS.png">
+</p>
+
 ### Browsers
 
 I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](https://www.apple.com/safari/) for play. The Chrome Dev Tools are next level, but Safari is cleaner and has better OS integration.
