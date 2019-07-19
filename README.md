@@ -332,4 +332,4 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - [**GitHub Flow**](http://scottchacon.com/2011/08/31/github-flow.html)
 - [**Apple File System Reference**](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)/[Unix File System Help](https://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux)
-okNOPENOPENOPE
+okNOPENOPENOPENOPE
