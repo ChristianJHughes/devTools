@@ -7,6 +7,7 @@ This repo contains **configuration** and **reference** for my dev tools.
 - [Terminal](#terminal)
 - [Editor](#editor)
 - [Desktop Tools](#desktop-tools)
+- [SaaS](#desktop-tools)
 - [Web Resources](#web-resources)
 
 ## Terminal
@@ -293,6 +294,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Bob Nystrom's Blog**](http://journal.stuffwithstuff.com)
 - [**Hackernoon**](https://hackernoon.com)
 - [**Code Without Rules**](https://codewithoutrules.com)
+- [**Destroy All Software**](https://www.destroyallsoftware.com/screencasts)
 
 ### YouTube
 
@@ -322,6 +324,8 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Terminal Mac Cheatsheet**](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [**RegexOne**](https://regexone.com)
 - [**MDN Web Docs**](https://developer.mozilla.org/en-US/)
+- [**Semantic Versioning**](https://semver.org/)
+- [**Bash Scripting Cheat Sheet**](https://devhints.io/bash)
 
 ### Required Reading
 
@@ -332,6 +336,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**The Hardest Program I've Ever Written**](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
 - [**Conquering The Command Line**](http://conqueringthecommandline.com/book/extras)
 - [**GitHub Open Source Guides**](https://opensource.guide)
+- [**Choose Boring Technology**](http://boringtechnology.club/#8)
 
 ### Informative Articles
 
@@ -339,3 +344,11 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - [**GitHub Flow**](http://scottchacon.com/2011/08/31/github-flow.html)
 - [**Apple File System Reference**](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)/[Unix File System Help](https://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux)
+- [**Understanding CSS Units**](https://webplatform.github.io/docs/tutorials/understanding-css-units/)
+- [**The Rise and Demise of RSS**](https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html)
+- [**Get the work/life balance you need**](https://codewithoutrules.com/worklife/)
+- [**A Conspiracy to Kill IE6**](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+
+### On Interviewing
+
+- [**Interviewing for a Technical Position Doesn't Have to be Scary**](https://css-tricks.com/interviewing-for-a-technical-position-doesnt-have-to-be-scary/)
