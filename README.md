@@ -7,6 +7,7 @@ This repo contains **configuration** and **reference** for my dev tools.
 - [Terminal](#terminal)
 - [Editor](#editor)
 - [Desktop Tools](#desktop-tools)
+- [SaaS](#desktop-tools)
 - [Web Resources](#web-resources)
 
 ## Terminal
@@ -153,7 +154,13 @@ I do all of my personal and professional work on a [15" Macbook Pro](https://www
 
 ### System Enhancements
 
-- [**Alfred 3**](https://www.alfredapp.com) - It's like Spotlight on steroids. It's a ⚡️ fast app launcher, 📁 file searcher, and 💻 system shortcut tool. Plus, it seamlessly integrates with 1Password and your browser bookmarks.
+- [**Alfred 3**](https://www.alfredapp.com) - It's like Spotlight on steroids. It's a ⚡️ fast app launcher, 📁 file searcher, and 💻 system shortcut tool. Plus, it seamlessly integrates with 1Password and your browser bookmarks. These Workflows take it up a notch:
+  - [Alfred GitHub Workflow](https://github.com/matthewmcgarvey/alfred-github-workflow) - Quickly access GitHub repositories.
+  - [Alfred Go CD Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Quickly access Go pipelines.
+  - [Alfred Emoji Workflow](https://github.com/jsumners/alfred-emoji) - Find an emoji and copy it to the clipboard.
+  - [Alfred Bluetooth Switch Workflow](https://github.com/uchida/alfred-switch-bluetooth) - Quickly connect Bluetooth devices.
+  - [Alfred Wi-Fi Workflow](http://www.packal.org/workflow/wi-fi) - Toggle wi-fi on and off.
+  - [Alfred HTTP Status Code Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Instantly check http status code definitions.
 
 ![Alfred](https://i.imgur.com/fdvy7dM.png)
 
@@ -198,11 +205,12 @@ I do all of my personal and professional work on a [15" Macbook Pro](https://www
 - [**Transmit**](https://panic.com/transmit/) - A beautiful client for interacting with remote file systems.
 - [**Postman**](https://www.getpostman.com) - Ubiquitous REST client and API development toolkit.
 
-### Productivitysmorgasbord
+### Productivity
 
 - [**Things 3**](https://culturedcode.com/things/) - The best To-Do list app in existence. I have obsessively tried tons of to-do list style apps, and this one is my favorite by a large margin. It's clean, powerful, and reliable. Pricey but worth it.
 - [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/) - Don't make me use Office.
-- [**Slack**](https://slack.com) ([Playstation theme](https://slackthemes.net/#/playstation)) - I started using Slack in March 2018, and it's quickly become my favorite chat client.
+- [**Slack**](https://slack.com) ([Playstation theme](https://slackthemes.net/#/playstation)) - Slack is ubiquitous, and the best chat client money can buy.
+- [**Microsoft Teams**](https://products.office.com/en-us/microsoft-teams/group-chat-software) - Microsoft Teams is not good software. But I use it.
 - [**Discord**](https://discordapp.com) - Discord is the best cross-platform _voice_ chat that I've ever used.
 
 ### Utilities
@@ -286,6 +294,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Bob Nystrom's Blog**](http://journal.stuffwithstuff.com)
 - [**Hackernoon**](https://hackernoon.com)
 - [**Code Without Rules**](https://codewithoutrules.com)
+- [**Destroy All Software**](https://www.destroyallsoftware.com/screencasts)
 
 ### YouTube
 
@@ -315,6 +324,8 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**Terminal Mac Cheatsheet**](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [**RegexOne**](https://regexone.com)
 - [**MDN Web Docs**](https://developer.mozilla.org/en-US/)
+- [**Semantic Versioning**](https://semver.org/)
+- [**Bash Scripting Cheat Sheet**](https://devhints.io/bash)
 
 ### Required Reading
 
@@ -325,6 +336,7 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [**The Hardest Program I've Ever Written**](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
 - [**Conquering The Command Line**](http://conqueringthecommandline.com/book/extras)
 - [**GitHub Open Source Guides**](https://opensource.guide)
+- [**Choose Boring Technology**](http://boringtechnology.club/#8)
 
 ### Informative Articles
 
@@ -332,3 +344,11 @@ I use [Google Chrome](https://www.google.com/chrome/) for work, and [Safari](htt
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - [**GitHub Flow**](http://scottchacon.com/2011/08/31/github-flow.html)
 - [**Apple File System Reference**](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)/[Unix File System Help](https://unix.stackexchange.com/questions/8656/usr-bin-vs-usr-local-bin-on-linux)
+- [**Understanding CSS Units**](https://webplatform.github.io/docs/tutorials/understanding-css-units/)
+- [**The Rise and Demise of RSS**](https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html)
+- [**Get the work/life balance you need**](https://codewithoutrules.com/worklife/)
+- [**A Conspiracy to Kill IE6**](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+
+### On Interviewing
+
+- [**Interviewing for a Technical Position Doesn't Have to be Scary**](https://css-tricks.com/interviewing-for-a-technical-position-doesnt-have-to-be-scary/)
