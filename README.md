@@ -154,11 +154,11 @@ I do all of my personal and professional work on a [15" Macbook Pro](https://www
 ### System Enhancements
 
 - [**Alfred 3**](https://www.alfredapp.com) - It's like Spotlight on steroids. It's a ⚡️ fast app launcher, 📁 file searcher, and 💻 system shortcut tool. Plus, it seamlessly integrates with 1Password and your browser bookmarks. These Workflows take it up a notch:
-  - [Alfred GitHub Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Quickly access GitHub repositories.
+  - [Alfred GitHub Workflow](https://github.com/matthewmcgarvey/alfred-github-workflow) - Quickly access GitHub repositories.
   - [Alfred Go CD Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Quickly access Go pipelines.
-  - [Alfred Emoji Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Find an emoji and copy it to the clipboard.
-  - [Alfred Bluetooth Switch Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Quickly connect Bluetooth devices.
-  - [Alfred Wi-Fi Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Toggle wi-fi on and off.
+  - [Alfred Emoji Workflow](https://github.com/jsumners/alfred-emoji) - Find an emoji and copy it to the clipboard.
+  - [Alfred Bluetooth Switch Workflow](https://github.com/uchida/alfred-switch-bluetooth) - Quickly connect Bluetooth devices.
+  - [Alfred Wi-Fi Workflow](http://www.packal.org/workflow/wi-fi) - Toggle wi-fi on and off.
   - [Alfred HTTP Status Code Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Instantly check http status code definitions.
 
 ![Alfred](https://i.imgur.com/fdvy7dM.png)
