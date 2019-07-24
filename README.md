@@ -204,11 +204,12 @@ I do all of my personal and professional work on a [15" Macbook Pro](https://www
 - [**Transmit**](https://panic.com/transmit/) - A beautiful client for interacting with remote file systems.
 - [**Postman**](https://www.getpostman.com) - Ubiquitous REST client and API development toolkit.
 
-### Productivitysmorgasbord
+### Productivity
 
 - [**Things 3**](https://culturedcode.com/things/) - The best To-Do list app in existence. I have obsessively tried tons of to-do list style apps, and this one is my favorite by a large margin. It's clean, powerful, and reliable. Pricey but worth it.
 - [**Pages, Keynote, & Numbers**](https://www.apple.com/iwork/) - Don't make me use Office.
-- [**Slack**](https://slack.com) ([Playstation theme](https://slackthemes.net/#/playstation)) - I started using Slack in March 2018, and it's quickly become my favorite chat client.
+- [**Slack**](https://slack.com) ([Playstation theme](https://slackthemes.net/#/playstation)) - Slack is ubiquitous, and the best chat client money can buy.
+- [**Microsoft Teams**](https://products.office.com/en-us/microsoft-teams/group-chat-software) - Microsoft Teams is not good software. But I use it.
 - [**Discord**](https://discordapp.com) - Discord is the best cross-platform _voice_ chat that I've ever used.
 
 ### Utilities

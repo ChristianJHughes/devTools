@@ -113,6 +113,7 @@ ZSH_THEME="robbyrussell"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
 # DISABLE_AUTO_UPDATE="true"
+DISABLE_UPDATE_PROMPT="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
 # export UPDATE_ZSH_DAYS=13
@@ -147,14 +148,20 @@ ENABLE_CORRECTION="true"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+  asdf
+  aws
+  brew
+  colored-man-pages
+  docker
   git
+  httpie
+  node
   npm
   osx
+  pip
   yarn
-  node
-  colored-man-pages
-  zsh-autosuggestions
   z
+  zsh-autosuggestions
   zsh-syntax-highlighting
 )
 
@@ -182,6 +189,9 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 
 # USER ALIASES
 
+# Add user home specific binaries
+export PATH="$HOME/bin:$PATH"
+
 # ZSH aliases
 alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
@@ -191,21 +201,40 @@ alias rm="trash"
 alias cat="bat"
 
 # git Aliases
-alias git="hub"
+eval "$(hub alias -s)"
 alias gitgud="git checkout master && git pull && git checkout -b"
 alias go="git push && git open"
+
+# pr()
+#
+# DESCRIPTION: Easily open GitHub Pull Requests!
+#
+# USE: pr "MY COMMIT MESSAGE"
+#
+# * Stages and commits all changes.
+# * Opens the PR associated with this branch in the default browser. Otherwise, a new PR is created!
+pr() {
+  git commit -am $1
+  git push
+  hub pr show || hub pull-request -p -o
+}
 
 # python Aliases - Migrates fhe default from python 2.x -> 3.x
 alias python="python3"
 alias pip="pip3"
 
-# mgnl-tabcompletion-start
+## mgnl-tabcompletion-start
 # load mgnl command tab completion
-autoload bashcompinit
-bashcompinit
-source ~/.mgnl/mgnl
 # mgnl-tabcompletion-end
+# autoload bashcompinit
+# bashcompinit
+# source ~/.mgnl/mgnl
 
+# asdf
 . $HOME/.asdf/asdf.sh
-
 . $HOME/.asdf/completions/asdf.bash
+
+# jenv
+# jenv
+export PATH="$HOME/.jenv/bin:$PATH"=
+eval "$(jenv init -)"
