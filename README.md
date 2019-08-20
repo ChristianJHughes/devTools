@@ -160,7 +160,7 @@ I do all of my personal and professional work on a [15" Macbook Pro](https://www
   - [Alfred Emoji Workflow](https://github.com/jsumners/alfred-emoji) - Find an emoji and copy it to the clipboard.
   - [Alfred Bluetooth Switch Workflow](https://github.com/uchida/alfred-switch-bluetooth) - Quickly connect Bluetooth devices.
   - [Alfred Wi-Fi Workflow](http://www.packal.org/workflow/wi-fi) - Toggle wi-fi on and off.
-  - [Alfred HTTP Status Code Workflow](https://github.com/matthewmcgarvey/alfred-gocd-workflow) - Instantly check http status code definitions.
+  - [Alfred HTTP Status Code Workflow](http://www.packal.org/workflow/http-status-codes) - Instantly check http status code definitions.
 
 ![Alfred](https://i.imgur.com/fdvy7dM.png)
 
