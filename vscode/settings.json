@@ -51,17 +51,6 @@
   "prettier.tabWidth": 2,
   "prettier.arrowParens": "always",
   "prettier.singleQuote": true,
-  // STYLE LINTER SETTINGS: Stylelint Handles it
-  // "prettier.disableLanguages": ["vue", "scss", "css"],
-  // "scss.validate": false,
-  // "css.validate": false,
-  // "less.validate": false,
-  // PLUGIN SETTINGS
-  // "scss.scannerExclude": [
-  //   "**/.git",
-  //   "**/node_modules/!(gazelle-design-system)",
-  //   "**/bower_components"
-  // ],
   "indentRainbow.updateDelay": 10,
   "npm.enableScriptExplorer": true,
   "npm.packageManager": "yarn",
