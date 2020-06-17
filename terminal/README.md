@@ -1,6 +1,6 @@
 # Terminal
 
-Christian's custom terminal configuration and scripts.
+Custom terminal configuration and theming.
 
 ## ramsey-art
 
